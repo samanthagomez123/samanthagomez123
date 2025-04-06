@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm peruvian :D
-Studied Audiovisual Communication and Interactive Media in Perú. <br/><br>👩🏽‍💻 Currently studying Multiplataform Application Development at ThePowerFP in Spain. <br/><br>In a love/hate relationship with Java and loving Databases. <br>✉️ You contact me at:<br> samig999@gmail.com
+Studied Audiovisual Communication and Interactive Media at UPC <br/><br>👩🏽‍💻 Currently studying Multiplataform Application Development at ThePowerFP in Spain. <br/><br>In a love/hate relationship with Java and loving Databases. <br>✉️ You contact me at:<br> samig999@gmail.com
 
 
 ## 🌐 Socials:
